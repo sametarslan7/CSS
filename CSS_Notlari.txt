@@ -18,3 +18,28 @@ CSS kodları 3 farklı yere yazılabilir.
 
 Satır içi (inline) CSS kodları 
         - <p style = "color : red">Bu paragrafa css kodu uygulanmıştır.</p>
+
+
+Temel Seçici (Selector) Örnekleri 
+
+* - her şey seçilecek
+p - p tagı seçilecek ve tüm p taglarına uygulanacak
+#deger - id'si deger olan taglar seçilecek ve uygulanacak
+.deger - class'ı deger olan tüm taglar seçilecek ve uygulanacak 
+h1.name - class degeri name olan tüm h1 tagları seçilecek ve uygulanacak
+p strong - p tagı içindeki tüm strong taglarına uygulanacak
+nav #button - nav tagı içindeki id'si button olan tüm taglara uygulanacak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
