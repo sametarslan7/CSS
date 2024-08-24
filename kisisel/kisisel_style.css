@@ -9,7 +9,7 @@
 
 #sayfa{
 	width: 1800px;
-	min-height: 600px;
+	min-height: 1000px;
 	border-style: solid;
 	border-width: 1px;
 	margin: auto;
@@ -109,5 +109,86 @@
 	color: black;
 }
 
+/* İçerik ve Yan Menü CSS Kodları */
 
+#icerik{
+	width: 1200px;
+	min-height: 600px;
+	border-style: solid;
+	border-width: 1px;
+	background-color: seagreen;
+	margin-left: 100px;
+	float: left;
+}
 
+#yanmenu{
+	width: 396px;
+	min-height: 600px;
+	border-style: solid;
+	border-width: 1px;
+	background-color: purple;
+	float: right;
+	margin-right: 100px
+}
+.random_resim{
+	width: 500px;
+	margin-left: 50px;
+	margin-top: 50px;
+	margin-right: 20px;
+	float: left;
+}
+.metin{
+	text-indent: 25px;
+	font-family: Verdana;
+	margin-top: 25px;
+	margin-left: 20px;
+}
+#yanmenu p{
+	margin-top: 20px;
+}
+#yanmenu h1{
+	margin-top: 30px;
+}
+
+/* Alt Menü */
+#altmenu{
+	width: 1600px;
+	min-height: 100px;
+	border-style: solid;
+	border-width: 1px;
+	background-color: lightblue;
+	margin-left: 100px;
+	float: left;
+}
+#altmenu ul li{
+	list-style-type: none;
+	float:left;
+	margin-left: 250px;
+	margin-top: 30px;
+}
+#altmenu ul a{
+	text-decoration: none;
+	color: black;
+}
+#altmenu ul p{
+	text-align: center;
+	font-size: 15px;
+	font-family: sans-serif;
+	margin-left: 200px;
+	margin-bottom: 20px;
+}
+
+#iletisim ul{
+	list-style-type: none;
+}
+#iletisim ul a{
+	text-decoration: none;
+}
+#egitim{
+	font-family: Verdana;
+	margin-top: 20px;
+}
+#sertifikalar li{
+	margin-top: 10px;
+	list-style-type: none;
+}
