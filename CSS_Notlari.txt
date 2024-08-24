@@ -30,6 +30,18 @@ h1.name - class degeri name olan tüm h1 tagları seçilecek ve uygulanacak
 p strong - p tagı içindeki tüm strong taglarına uygulanacak
 nav #button - nav tagı içindeki id'si button olan tüm taglara uygulanacak
 
+Paragraf CSS Özellikleri
+
++ text - indent : (em,px) paragrafın ilk satırının girintili olmasını sağlar
++ text - align  :  (left,right,center,justify) Paragrafın sola, sağa , ortaya veya her iki kenaar yaslanmasını sağlar
++ line - height : (em,px) Paragraftaki satırlar arası mesafeyi ayarlar. 
+
+Metin CSS Özellikleri 
+
++ font-weight : Yazının kalınlığını ayarlamamızı sağlar.
++ font-transform : Metnin harflerinin büyük-küçük-her kelimenin baş harfini büyük-küçük giib mişlemleri yapmamızı sağlar.
++ word-spacing : Kelimeler arasındaki boşluğu belirlememizi sağlar.
++ letter-spacing : Harfler arasındaki boşluğu belirlememizi sağlar.
 
 
 
